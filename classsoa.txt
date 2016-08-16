@@ -1,0 +1,20 @@
+delete table composite_instance where create_date='06-AUG-2016'
+
+
+delete tannle composite_insance where create_date between '01-AUG-2016' and '06-AUG-2016' AND instance_state in ('.......');
+
+
+
+Metadata
+ DEV MDS
+
+
+!) databse reposi
+2) File based
+
+model.xsd
+
+HelloWorld-rev1.0.jar
+
+
+User Mwssaging Service
